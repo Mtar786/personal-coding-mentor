@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Backend progress and environment
+backend/progress.json
+.env
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+.DS_Store
