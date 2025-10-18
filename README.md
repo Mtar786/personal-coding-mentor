@@ -82,6 +82,7 @@ curl -X POST http://localhost:3001/api/explain \
 }
 ```
 
+
 ## Extending the Agent
 
 This project provides a skeleton you can extend. To integrate an actual AI model:
