@@ -50,6 +50,7 @@ An AI-powered assistant to help you learn and practice coding. This project incl
 
 ### Usage
 
+
 - **Explain a Problem**  
   In the "Explain a Problem" section, describe the coding problem and choose a language. Click **Explain** to receive a step‑by‑step breakdown.  
 - **Review Code**  
