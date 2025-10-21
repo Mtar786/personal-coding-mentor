@@ -2,6 +2,7 @@
 
 An AI-powered assistant to help you learn and practice coding. This project includes a simple backend API and a frontend UI for interacting with the agent.
 
+
 ## Features
 
 - **Explain Problems**: Paste a coding problem and receive a beginner‑friendly explanation.  
